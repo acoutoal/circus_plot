@@ -4,7 +4,7 @@ Make a circus plot of pvalues by calling the function plot_circus_plot(...)
 # example
 Just source the file and call the function test_circus_plot()
 
-This will plot a circus plot with 60 variables, grouped in 3 classes. The family variable is the class indicator.
+This will create a circus plot with 60 variables, grouped in 3 classes. The family variable is the class indicator.
 ```
   M = 20 
   N = M*3
